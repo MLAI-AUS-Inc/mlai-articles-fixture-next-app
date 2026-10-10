@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "framework": "next-app",
+  "sandbox": true,
+  "output_dir": "out",
+  "source_files": [
+    "package.json",
+    "next.config.mjs",
+    "app/layout.jsx",
+    "app/page.jsx"
+  ],
+  "deploy_host": "github-pages",
+  "repository_prefix": "mlai-articles-fixture-"
+}
